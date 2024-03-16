@@ -1,12 +1,3 @@
-// Criar uma interação entre o JS e o html
-// Manipular o título do html <h1>/</h1>
-
-//let titulo = document.querySelector('h1'); // Selecionei a tag
-//titulo.innerHTML = 'Jogo do Número Secreto';
-
-// let paragraph = document.querySelector('p');
-//paragraph.innerHTML = 'Escolha um número entre 1 e 10';
-
 exibirMensagemInicial(); // Utilizando a função para exibir as mensagens do título e parágrafo
 let listaNumerosSorteados = []; // Lista vázia que irá implementar os números escolhidos
 let numeroLimite = 10; // Variável que armazena o número limite de números
